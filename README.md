@@ -1,5 +1,5 @@
 # Workshop for Analytics Vidhya July 2022
-## nterpreting an Unemployment Classifier for North Carolina
+## Interpreting an Unemployment Classifier for North Carolina
 
 ### Downloadable Pre-requisites
 
